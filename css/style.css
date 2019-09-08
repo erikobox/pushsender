@@ -1,0 +1,15 @@
+input, textarea {
+  display: block;
+  margin: 10px 0 10px 0;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin: 10px 0 0 0;
+}
+
+.thumbnail {
+  width: 200px;
+  height: auto;
+}
